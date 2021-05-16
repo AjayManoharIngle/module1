@@ -3,14 +3,14 @@ class Main {
   public static void main(String[] args) {
     
     System.out.println("Enter two numbers");
-    int first = 40;
-    int second = 60;
-    int third = 100;
+    int first = 1;
+    int second = 2;
     
-    System.out.println(first + " " + second + " " + third);
+    
+    System.out.println(first + " " + second + " " );
 
     // add two numbers
-    int sum = first + second +third;
+    int sum = first + second ;
     System.out.println("The sum is: " + sum);
   }
 }
