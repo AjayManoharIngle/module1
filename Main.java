@@ -4,7 +4,7 @@ class Main {
     
     System.out.println("Enter two numbers");
     int first = 1;
-    int second = 2;
+    int second = 4;
     
     
     System.out.println(first + " " + second + " " );
